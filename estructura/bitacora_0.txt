@@ -1,0 +1,75 @@
+Tesis
+topografía de Opentopo
+
+http://demto3d.com/en/descarga-de-mde/
+http://opentopo.sdsc.edu/datasets
+
+http://opentopo.sdsc.edu/raster?jobId=rt1484869841403
+
+
+http://demto3d.com/en/sobre-mi/
+
+Pedruelo: 
+http://www.diva-portal.org/smash/get/diva2%3A228936/FULLTEXT01.pdf
+
+
+
+http://www.bolund.vindenergi.dtu.dk/The_Bolund_experiment
+
+https://www.cfd-online.com/Forums/openfoam/85128-wind-simulation-askervein-hill.html
+
+https://openfoamwiki.net/index.php/Sig_WindE/Validation_Cases
+
+https://github.com/hananel/Martinez3DAR1MeshMaster
+
+https://github.com/efirvida/OpenFoam-Wind-Simulation
+
+https://openfoamwiki.net/images/0/03/Askervein_template.tar.gz
+
+
+Modelo, Datasets y benchmark: http://windbench.net/
+
+Bolund: http://www.bolund.vindenergi.dtu.dk/blind_comparison
+https://galgalyarok.org/renewableenergy/windturbines/ablsimulation?lang=en
+
+wiki OpenFoam:   https://openfoamwiki.net/index.php/Main_Courses 
+					https://openfoamwiki.net/index.php/Handy_links#H.C3.A5kan_Nilsson.27s_PhD_course_in_CFD_with_OpenSource_software
+					
+
+
+- Flujo de Viento en grandes superficies
+- Navier Stokes
+	- LENS
+	- RANS
+	- ABL 
+
+- Numeric Weather Prediction 
+
+- Wind Power Farm
+
+ - Forecasting
+		- Long Term
+		-Short Term
+		- NExt Day
+ - OPenFoam : Modeling
+	Validation 
+	 - Bolund Data Case
+	 - Talara/ Tres Hermanas.
+
+ -Optimization of micrositting
+	-AWS metodology
+- Plantemiento del Problema
+-Metodología
+-Modelo
+	- Twister
+	- Lomitas
+	- otros
+
+Resultados
+- Conclusiones
+
+- Anexos
+	- Modelos OpenFoam
+	- Resultados tabulares
+
+  

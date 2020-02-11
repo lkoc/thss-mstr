@@ -1,0 +1,130 @@
+Tesis de Maestría
+PARTE 1: Marco Teórico
+
+Capítulo 1
+
+	**Mecanica de Fluidos
+		***Ecuaciones de Navier Stokes y Turbulencia
+			**** Presentación de las  Ecuaciones NS			
+			****Flujo Laminar
+					* Ejemplo de flujo sobre el cilindro: LBM y OpenFoam
+	* Diferencias , ventajas y desventajas
+			**** FLujo turbulento
+				teorias Kolmorogov
+				otra teorías 
+				**** Modelos de Turbulencia
+					Icofoam (DNSFOam) ( Driven Lid Cavity para Re=100k
+					LBM; con Re=100k --> Modelo de Turbulencia
+					LBM y OpenFoam
+					
+					SimpleFoam (estado estable) para k=100k con k-eps)
+					PisoFoam con Re=100k
+					LEs (Re-100k)
+					Comaparación de Resultados de SimpleFoam y PisoFoam.
+					Comapración de resultados LES t RAS
+				* Simulaciones DNS (OpenFoam y LBM) : Driven-Lid cavity RE 1000, 10000 y 100000
+				
+
+		***Mecanica de Fluidos de la Atmósfera
+			*** ABL
+			*** Mesoescala
+			**** NWP (Numerical weather prediction)
+			*** Flujos de vientos en parques eólicos
+
+Capítulo 2
+	** CFD sobre terrenos complejos
+		*** General
+
+		 - Paper australianos de los 70
+		 - Problema de la capa límite y modelos de pared
+		 - simulación de alformbra en Open Foam (estado estable y dinámico).
+		 -Simplificación de usperficies complejas usando FFT para superficies
+			
+		 - Simulación sobre colinas (Askervein and Bolund hills)
+		 - Conclusiones acerca del flujo turbulento sibre una superficie compleja.
+
+		*** Impacto de la rugosidad
+		*** Simulación sobre terrenos complejos
+
+Capítulo 3			
+	**Parques Eólicos
+		***Operación de las turbinas eólicas de eje horizontal
+		 * Modelo de disco, lines y modelos detallado
+		 * Modelo de disco en OpenFoamOma
+		 * Análsis de estelas
+		 * Modelos lineales
+		***Modelo de disco (cilindro)
+		***Efectos de Estela
+		***Optimizaciones de micrositting
+		***Limitaciones de las metodologías usadas
+
+	* Caso de Estudio - Optimización de Micrositios
+	   * Modelos lineales
+	   * Asistido por CFD
+
+Segunda PArte 2
+Capítulo 4 Metodología
+	**Herramientas de simulación
+		*** Matlab
+		*** Python
+		*** ANSYS
+		*** OpenFoam
+		*** Comparación
+		*** Discusión de Resultados
+
+*Implementación de Nuevos algoritmos en OpenFoam
+	** Código
+	** Validación
+
+Capítulo 5:Aplicación a Parques Eólicos
+    ** Modelos lineales
+	** Impacto de la topografía (terrenos complejos)
+	** Condiciones de Frontera
+	** ABL
+	** Metodología de simulación
+	** Optimización
+	** Caso de Estudio
+	** Discusión de Resultados
+
+Capítulo 6 - Estimación de velocidad de viento y energia
+* Caso de Estudio - Estimación de velocidad de viento
+	** Modelo de ABL para terrenos complejos
+		*** Modelo 
+		*** Data
+		*** Resultados	
+
+   ** Bolund y Askerville
+	 ***Modelo
+	 ***Data
+	 *** Resultados
+
+  ** Nasca
+	 ***Modelo
+	 ***Data
+	 *** Resultados
+
+  ** Monte Redondo
+	 ***Modelo
+	 ***Data
+	 *** Resultados
+
+Capítulo 7 - Optimización de Micrositios
+* Caso de Estudio - Optimización de Micrositios
+   * Modelos lineales
+   * Asistido por CFD
+
+Parte 3: Aplicaciones
+
+CApítulo 8: Punta Lomitas
+Capítulo 9: Wayra
+
+PArte 4
+Capítulo 10 -Conclusiones
+
+*Bibliografía
+
+
+
+
+	
+

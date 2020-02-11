@@ -1,0 +1,56 @@
+Capítulo 1: Introducción Mecanica de fluidos computacional
+--> Balances de momentum y energia
+	Navier stokes y LBM
+	Primer O SEGUNDO PROBLEMA de Stokes. 
+	Octave, OpenFoam, Fluent, 
+ 
+--> Flujo Laminar y Turbulento 
+ * Laminar
+	* Ejemplo de flujo sobre el cilindro: LBM y OpenFoam
+	* Diferencias , ventajas y desventajas
+ * Turbulento
+	teorias Kolmorogov
+	otra teorías 
+		* Simulaciones DNS (OpenFoam y LBM) : Driven-Lid cavity RE 1000, 10000 y 100000
+	
+Capítulo 2: Modelos de turbulencia k-eps y otros
+		Icofoam (DNSFOam) ( Driven Lid Cavity para Re=100k
+		LBM; con Re=100k --> Modelo de Turbulencia
+		LBM y OpenFoam
+		
+		SimpleFoam (estado estable) para k=100k con k-eps)
+		PisoFoam con Re=100k
+		LEs (Re-100k)
+		Comaparación de Resultados de SimpleFoam y PisoFoam.
+		Comapración de resultados LES t RAS
+	
+Capítulo 3: Flujo turbulento sobre superficies complejas
+	 - Paper australianos de los 70
+	 - Problema de la capa límite y modelos de pared
+	 - simulación de alformbra en Open Foam (estado estable y dinámico).
+	 -Simplificación de usperficies complejas usando FFT para superficies
+		
+	 - Simulación sobre colinas (Askervein and Bolund hills)
+	 - Conclusiones acerca del flujo turbulento sibre una superficie compleja.
+	 
+Capítulo 4: Aplicación a campos de Viento:
+	Punta Lomitas, Twister o Tres Mesas y Pasturas
+	 * Conclusiones: comparación de resultados RES, LES (estático o dinámico)
+	 
+Capítulo 5 : Modelo de aerogeneradores en CFD
+
+	 * Modelo de disco, lines y modelos detallado
+	 * Modelo de disco en OpenFoamOma
+	 * Análsis de estelas
+	 * Modelos lineales
+	 * Cálculo con CFD
+	 * Aplicación a Lomitas, Twister y otros
+	 *Conclusiones
+	 
+	 Conclusiones generales
+	 
+	 Apendices
+	  * Modelos en OpenFOM  yLBM (principales o en repositorio)
+	  * Derivación de las ecuaciones de Navier Stokes 
+	 
+		

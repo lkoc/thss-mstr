@@ -1,0 +1,1061 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2020.1.13)  17 JAN 2020 18:36
+entering extended mode
+**./tesis.tex
+(tesis.tex
+LaTeX2e <2019-10-01> patch level 3
+(Latex/Classes/thesisUMSNH.cls
+
+LaTeX Warning: You have requested document class `Latex/Classes/thesisUMSNH',
+               but the document class provides `Latex/Classes/PhDthesisPSnPDF'.
+
+
+Document Class: Latex/Classes/PhDthesisPSnPDF 2007/09/06 v2 PhD thesis class
+(/home/lkoc/.miktex/texmfs/install/tex/latex/base/book.cls
+Document Class: book 2019/10/25 v1.4k Standard LaTeX document class
+(/home/lkoc/.miktex/texmfs/install/tex/latex/base/bk11.clo
+File: bk11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/listings/listings.sty
+(/home/lkoc/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+\lst@mode=\count101
+\lst@gtempboxa=\box29
+\lst@token=\toks23
+\lst@length=\count102
+\lst@currlwidth=\dimen112
+\lst@column=\count103
+\lst@pos=\count104
+\lst@lostspace=\dimen113
+\lst@width=\dimen114
+\lst@newlines=\count105
+\lst@lineno=\count106
+\lst@maxwidth=\dimen115
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count107
+\lst@skipnumbers=\count108
+\lst@framebox=\box30
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen116
+\WF@size=\dimen117
+\c@WF@wrappedlines=\count109
+\WF@box=\box31
+\WF@everypar=\toks24
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@tempdima=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count110
+\c@continuedfloat=\count111
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen125
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen126
+\subfiglabelskip=\skip49
+\c@subfigure=\count112
+\c@lofdepth=\count113
+\c@subtable=\count114
+\c@lotdepth=\count115
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/home/lkoc/.miktex/texmfs/install/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/home/lkoc/.miktex/texmfs/install/tex/generic/genmisc/mathdots.sty
+Package: mathdots 2004/07/02 version 0.6.
+\MD@unit=\dimen127
+LaTeX Info: Redefining \ddots on input line 120.
+LaTeX Info: Redefining \vdots on input line 122.
+
+
+Package Mathdots Warning: Redefining amsmath commands \dddot and \ddddot.
+
+LaTeX Info: Redefining \dddot on input line 145.
+LaTeX Info: Redefining \ddddot on input line 145.
+) (/home/lkoc/.miktex/texmfs/install/tex/latex/jknappen/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsfonts/eucal.sty
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(/home/lkoc/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2019/12/08 3.37 The Babel package
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/babel/switch.def
+File: switch.def 2019/12/08 3.37 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/lkoc/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/babel/babel.def
+File: babel.def 2019/12/08 3.37 Babel common definitions
+\babel@savecnt=\count116
+\U@D=\dimen128
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count117
+))
+(/home/lkoc/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Spanish' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 51.
+
+\es@quottoks=\toks25
+\es@quotdepth=\count118
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (/home/lkoc/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count119
+\float@exts=\toks26
+\float@box=\box32
+\@float@everytoks=\toks27
+\@floatcapt=\box33
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/home/lkoc/.miktex/texmfs/install/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks28
+\footnotemargin=\dimen129
+\c@pp@next@reset=\count120
+\c@@fnserial=\count121
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/tools/multicol.sty
+Package: multicol 2019/03/01 v1.8w multicolumn formatting (FMi)
+\c@tracingmulticols=\count122
+\mult@box=\box34
+\multicol@leftmargin=\dimen130
+\c@unbalance=\count123
+\c@collectmore=\count124
+\doublecol@number=\count125
+\multicoltolerance=\count126
+\multicolpretolerance=\count127
+\full@width=\dimen131
+\page@free=\dimen132
+\premulticols=\dimen133
+\postmulticols=\dimen134
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
+\partial@page=\box35
+\last@line=\box36
+\maxbalancingoverflow=\dimen135
+\mult@rightbox=\box37
+\mult@grightbox=\box38
+\mult@gfirstbox=\box39
+\mult@firstbox=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\c@minrows=\count128
+\c@columnbadness=\count129
+\c@finalcolumnbadness=\count130
+\last@try=\dimen136
+\multicolovershoot=\dimen137
+\multicolundershoot=\dimen138
+\mult@nat@firstbox=\box58
+\colbreak@box=\box59
+\mc@col@check@num=\count131
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language1
+LaTeX Info: Redefining \_ on input line 43.
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/home/lkoc/.miktex/texmfs/install/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box60
+\beforetitleunit=\skip63
+\aftertitleunit=\skip64
+\ttl@plus=\dimen139
+\ttl@minus=\dimen140
+\ttl@toksa=\toks29
+\titlewidth=\dimen141
+\titlewidthlast=\dimen142
+\titlewidthfirst=\dimen143
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2019/11/23 v5.3 Nomenclature package
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(/home/lkoc/.miktex/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
+)
+\XKV@depth=\count132
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/home/lkoc/.miktex/texmfs/install/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2019/12/23 v3.28 KOMA-Script package (handling toc-files)
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2019/12/23 v3.28 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2019/12/23 v3.28 KOMA-Script package (loading files)
+))
+\scr@dte@tocline@numberwidth=\skip65
+\scr@dte@tocline@numbox=\box61
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 163.
+Package tocbasic Info: setting babel extension for `nls' on input line 164.
+\nomlabelwidth=\dimen144
+\nom@tempdim=\dimen145
+\nomitemsep=\skip66
+)
+\@nomenclaturefile=\write3
+\openout3 = `tesis.nlo'.
+
+Package nomencl Info: Writing nomenclature file tesis.nlo on input line 77.
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+(/home/lkoc/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/home/lkoc/.miktex/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2019/12/15 v1.9 Color options for hyperref/bookmark (HO)
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/hycolor/xcolor-patch.sty
+Package: xcolor-patch 2019/12/15 xcolor patch
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/oberdiek/hopatch.sty
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+(/home/lkoc/.miktex/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen146
+\Hy@linkcounter=\count133
+\Hy@pagecounter=\count134
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/home/lkoc/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count135
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/00miktex/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 4409.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4409.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4409.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4409.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4409
+.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4409.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4409.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4409.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4409.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 4409.
+Package hyperref Info: Hyper figures ON on input line 4533.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing ON on input line 4553.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/hyperref/backref.sty
+Package: backref 2016/05/21 v1.39 Bibliographical back referencing
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+(/home/lkoc/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+))
+\c@Hy@tempcnt=\count136
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5147.
+\XeTeXLinkMargin=\dimen147
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count137
+\Field@Width=\dimen148
+\Fld@charsize=\dimen149
+Package hyperref Info: Hyper figures ON on input line 6416.
+Package hyperref Info: Link nesting OFF on input line 6423.
+Package hyperref Info: Hyper index ON on input line 6426.
+Package hyperref Info: backreferencing ON on input line 6431.
+Package hyperref Info: Link coloring ON on input line 6436.
+Package hyperref Info: Link coloring with OCG OFF on input line 6443.
+Package hyperref Info: PDF/A mode OFF on input line 6448.
+LaTeX Info: Redefining \ref on input line 6488.
+LaTeX Info: Redefining \pageref on input line 6492.
+
+(/home/lkoc/.miktex/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count138
+\c@Item=\count139
+\c@Hfootnote=\count140
+)
+Package hyperref Info: Driver: hpdftex.
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
+\Fld@listcount=\count141
+\c@bookmark@seq@number=\count142
+\Hy@SectionHShift=\skip67
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 223.
+
+) (/home/lkoc/.miktex/texmfs/install/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count143
+\c@Blindtext=\count144
+\c@blind@countparstart=\count145
+\blind@countxx=\count146
+\blindtext@numBlindtext=\count147
+\blind@countyy=\count148
+\c@blindlist=\count149
+\c@blindlistlevel=\count150
+\c@blindlist@level=\count151
+\blind@listitem=\count152
+\c@blind@listcount=\count153
+\c@blind@levelcount=\count154
+\blind@mathformula=\count155
+\blind@Mathformula=\count156
+\c@blind@randomcount=\count157
+\c@blind@randommax=\count158
+\c@blind@pangramcount=\count159
+\c@blind@pangrammax=\count160
+)
+(/home/lkoc/.miktex/texmfs/install/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip68
+\bibsep=\skip69
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count161
+)
+\@input{Latex/Macros/MacroFile1.aux}
+\openout2 = `Latex/Macros/MacroFile1.aux'.
+
+(Latex/Macros/MacroFile1.tex)
+Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+ (tesis.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ (Agradecimientos/Dedicatoria.aux)
+(Agradecimientos/Agradecimientos.aux) (Declaracion/Declaracion.aux)
+(Resumen/Resumen.aux) (Capitulo1/introduccion.aux) (Capitulo2/marco_teorico.aux
+) (Capitulo3/diseno_experimento.aux) (Capitulo4/resultados_y_analisis.aux)
+(Capitulo5/conclusiones.aux) (Apendice1/Apendice1.aux))
+\openout1 = `tesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+\c@lstlisting=\count162
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+
+(/home/lkoc/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count163
+\scratchdimen=\dimen152
+\scratchbox=\box62
+\nofMPsegments=\count164
+\nofMParguments=\count165
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count166
+\MPscratchDim=\dimen153
+\MPnumerator=\count167
+\makeMPintoPDFobject=\count168
+\everyMPtoPDFconversion=\toks33
+) (/home/lkoc/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.jpg,.pdf,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+Package backref Info: ** backref set up for natbib ** on input line 67.
+\AtBeginShipoutBox=\box63
+Package hyperref Info: Link coloring ON on input line 67.
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/home/lkoc/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestring.st
+y
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count169
+)
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
+ (tesis.out) (tesis.out)
+\@outlinefile=\write4
+\openout4 = `tesis.out'.
+
+<Latex/Classes/Escudos/logo_pucp.jpeg, id=91, 289.4085pt x 113.004pt>
+File: Latex/Classes/Escudos/logo_pucp.jpeg Graphic file (type jpg)
+<use Latex/Classes/Escudos/logo_pucp.jpeg>
+Package pdftex.def Info: Latex/Classes/Escudos/logo_pucp.jpeg  used on input li
+ne 69.
+(pdftex.def)             Requested size: 218.61026pt x 85.35826pt.
+ [1
+
+
+
+\FN@pp@footnotehinttrue 
+
+{/home/lkoc/.miktex/texmfs/data/pdftex/config/pdftex.map} <./Latex/Classes/Escu
+dos/logo_pucp.jpeg>]
+\openout2 = `Agradecimientos/Dedicatoria.aux'.
+
+ (Agradecimientos/Dedicatoria.texpdfTeX warning (ext4): destination with the sa
+me identifier (name{page.I}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.6 \end{dedication}
+                     [1
+
+
+])
+\openout2 = `Agradecimientos/Agradecimientos.aux'.
+
+ (Agradecimientos/Agradecimientos.tex [2
+
+
+]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 8.
+
+[3
+
+])
+\openout2 = `Declaracion/Declaracion.aux'.
+
+ (Declaracion/Declaracion.tex [4
+
+
+] [5
+
+])
+\openout2 = `Resumen/Resumen.aux'.
+
+ (Resumen/Resumen.tex [6
+
+
+]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 10.
+
+[7
+
+]) (tesis.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 2.
+
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 2.
+
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 3.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 5.
+
+
+(/home/lkoc/.miktex/texmfs/install/tex/latex/jknappen/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+))
+\tf@toc=\write5
+\openout5 = `tesis.toc'.
+
+ [8
+\FN@pp@footnotehinttrue 
+
+
+] (tesis.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write6
+\openout6 = `tesis.lof'.
+
+ [9
+
+] (tesis.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write7
+\openout7 = `tesis.lot'.
+
+ [10
+
+]
+\openout2 = `Capitulo1/introduccion.aux'.
+
+ (Capitulo1/introduccion.tex
+Cap\'{\i }tulo 1.
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 26.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 34.
+
+
+Overfull \hbox (5.18362pt too wide) in paragraph at lines 29--34
+[]\OT1/cmr/m/n/10.95 Este trabajo tiene por objetivo ... Lorem ipsum dolor sit 
+amet, consectetuer adipiscing
+ []
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 41.
+
+[1
+
+
+
+]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 47.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 54.
+
+
+Overfull \hbox (3.5805pt too wide) in paragraph at lines 49--54
+\OT1/cmr/m/n/10.95 consectetuer adipiscing elit. Etiam lobortis facilisis sem. 
+Nullam nec mi et neque pharetra
+ []
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 62.
+
+
+Overfull \hbox (1.86093pt too wide) in paragraph at lines 57--62
+[]\OT1/cmr/m/n/10.95 La principal contribucion de este trabajo es Lorem ipsum 
+dolor sit amet, consectetuer
+ []
+
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+[2])
+Underfull \hbox (badness 10000) in paragraph at lines 65--98
+
+ []
+
+LaTeX Info: Redefining \. on input line 98.
+LaTeX Info: Redefining \% on input line 98.
+[3]
+\openout2 = `Capitulo2/marco_teorico.aux'.
+
+ (Capitulo2/marco_teorico.tex
+Cap\'{\i }tulo 2.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+4.
+(/home/lkoc/.miktex/texmfs/install/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+)
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 99.
+
+[4
+
+
+
+]
+\openout2 = `Capitulo3/diseno_experimento.aux'.
+
+ (Capitulo3/diseno_experimento.tex
+Cap\'{\i }tulo 3.
+<Capitulo3/figs/planta.jpg, id=206, 301.125pt x 301.125pt>
+File: Capitulo3/figs/planta.jpg Graphic file (type jpg)
+<use Capitulo3/figs/planta.jpg>
+Package pdftex.def Info: Capitulo3/figs/planta.jpg  used on input line 36.
+(pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 85.
+
+)
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 100.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 100.
+
+[5
+
+
+
+]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 100.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 100.
+
+LaTeX Info: Redefining \. on input line 100.
+LaTeX Info: Redefining \% on input line 100.
+[6 <./Capitulo3/figs/planta.jpg>]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 100.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 100.
+
+LaTeX Info: Redefining \. on input line 100.
+LaTeX Info: Redefining \% on input line 100.
+[7]
+\openout2 = `Capitulo4/resultados_y_analisis.aux'.
+
+ (Capitulo4/resultados_y_analisis.tex
+Cap\'{\i }tulo 4.
+)
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 101.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 101.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 101.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 101.
+
+[8
+
+
+
+]
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 101.
+
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 101.
+
+LaTeX Info: Redefining \. on input line 101.
+LaTeX Info: Redefining \% on input line 101.
+[9]
+\openout2 = `Capitulo5/conclusiones.aux'.
+
+ (Capitulo5/conclusiones.tex
+Cap\'{\i }tulo 5.
+)
+
+Package blindtext Warning: spanish not defined, using English instead.
+(blindtext)                 on input line 102.
+
+[10
+
+
+
+]
+\openout2 = `Apendice1/Apendice1.aux'.
+
+ (Apendice1/Apendice1.tex
+Ap\'{e}ndice A.
+) [11
+
+
+
+] (tesis.bbl (tesis.brf)
+\tf@brf=\write8
+\openout8 = `tesis.brf'.
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
+ [12
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
+ (tesis.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ (Agradecimientos/Dedicatoria.aux) (Agradecimientos/Agradecimientos.aux) (Decla
+racion/Declaracion.aux)
+(Resumen/Resumen.aux) (Capitulo1/introduccion.aux) (Capitulo2/marco_teorico.aux
+) (Capitulo3/diseno_experimento.aux) (Capitulo4/resultados_y_analisis.aux)
+(Capitulo5/conclusiones.aux) (Apendice1/Apendice1.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
+Package rerunfilecheck Info: File `tesis.out' has not changed.
+(rerunfilecheck)             Checksum: B706278A6C79338734A3C74AA99CDCCB;1382.
+Package rerunfilecheck Info: File `tesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 95A93E969AADB48CD37B97C26BEA799A;116.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
+ ) 
+Here is how much of TeX's memory you used:
+ 13280 strings out of 494411
+ 200687 string characters out of 3174550
+ 355943 words of memory out of 3000000
+ 16932 multiletter control sequences out of 15000+200000
+ 13770 words of font info for 51 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 60i,12n,82p,561b,1309s stack positions out of 5000i,500n,10000p,200000b,50000s
+</home/lkoc/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</home/lkoc/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+home/lkoc/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx8.pfb></hom
+e/lkoc/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home
+/lkoc/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/l
+koc/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/lkoc
+/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/lkoc/.m
+iktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/lkoc/.mikt
+ex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/lkoc/.miktex
+/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/lkoc/.miktex/t
+exmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/lkoc/.miktex/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on tesis.pdf (23 pages, 314207 bytes).
+PDF statistics:
+ 303 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+

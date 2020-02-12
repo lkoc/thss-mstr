@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.20)  11 FEB 2020 23:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.20)  12 FEB 2020 01:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -747,31 +747,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+
 
 (/media/lkoc/hdd/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+
 
 (/media/lkoc/hdd/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 8.
-
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 11
+.
 
 (/media/lkoc/hdd/texlive/2019/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
 
  []
 
 
-Overfull \hbox (16.76912pt too wide) in paragraph at lines 8--12
-\OT1/cmr/m/n/10.95 es-te-las. Se uti-li-zan los m^^Seto-dos RANS $\OML/cmm/m/it
-/10.95 k$\OT1/cmr/m/n/10.95 -$\OML/cmm/m/it/10.95 ^^O$ \OT1/cmr/m/n/10.95 (usan
--do el c^^Sodi-go Open-Foam) y Lattice-Boltzman
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
+
  []
 
 [7
@@ -1061,7 +1061,7 @@ Here is how much of TeX's memory you used:
  16987 multiletter control sequences out of 15000+600000
  13418 words of font info for 50 fonts, out of 8000000 for 9000
  64 hyphenation exceptions out of 8191
- 60i,12n,82p,1216b,1309s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,12n,82p,787b,1309s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{page.\\protect\040\\unhbox\040\\voidb@x\040\\hbox
 \040{\\protect\040\\relax\040\\protect\040\\edef\040n{sc}\\protect\040\\afteras
 signment\040\\edef\04010.95{10.95}\\afterassignment\040\\edef\04013.6pt{0.0pt\0
@@ -1110,7 +1110,7 @@ public/amsfonts/cm/cmr17.pfb></media/lkoc/hdd/texlive/2019/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb></media/lkoc/hdd/texlive/2019/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti10.pfb></media/lkoc/hdd/texlive/2019/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tesis.pdf (23 pages, 277045 bytes).
+Output written on tesis.pdf (23 pages, 277606 bytes).
 PDF statistics:
  298 PDF objects out of 1000 (max. 8388607)
  257 compressed objects within 3 object streams

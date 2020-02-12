@@ -1,0 +1,175 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+    \setmainfont[]{Droid Serif}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\date{}
+
+\begin{document}
+
+\section{Tesis UNAM}\label{tesis-unam}
+
+Plantilla de Tesis en LaTeX para las facultades de la UNAM.
+
+UNAM's Thesis' LaTeX template.
+
+Based on Harish Bhanderi's PhD/MPhil template, then Uni Cambridge
+(http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/ThesisStyle/).
+Corrected and extended in 2007 by Jakob Suckale, then MPI-iCBG PhD
+programme and made available through OpenWetWare.org - the free biology
+wiki. Adapted to UNAM by Jesús Velázquez
+
+\subsection{Lista de paquetes}\label{lista-de-paquetes}
+
+Recomiendo tener la opción ``Install packages on the fly'' de su
+distribución de LaTeX, activada. La lista de paquetes usados en la
+plantilla es:
+
+\begin{verbatim}
+\usepackage{amssymb, amsmath, amsbsy, amsfonts}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{emptypage}
+\usepackage{caption}
+\usepackage[bf,SL,BF]{subfigure}
+\usepackage{mathdots}
+\usepackage{mathrsfs}
+\usepackage{fancyhdr}
+\usepackage{eucal}
+\usepackage[spanish,mexico]{babel}
+\usepackage{color}
+\usepackage[perpage]{footmisc}
+\usepackage{natbib}
+\usepackage{ifthen}
+\usepackage{multicol}
+\usepackage[nottoc]{tocbibind}
+\usepackage{titlesec}
+\end{verbatim}
+
+\subsection{Portada}\label{portada}
+
+Existen dos versiones de la portada, una en color negro y otra azul y
+oro. Para escoger la portada en negro, hay que descomentar la línea:
+\portadafalse
+y comentar la línea \portadatrue
+
+Los datos van en los siguientes campos: \title{Título de la tesis}
+\author{Nombres Apellido1 Apellido2} \facultad{Facultad de Algunacosa}\\
+\degree{Ingenierx/Licenciadx en Algo} \director{Dr. Emmet L. Brown}\\
+\degreedate{2112}\\
+\lugar{Ciudad de México}
+
+Y el escudo de la facultad va en el campo \escudofacultad{ } donde se
+debe incluir la ruta y el nombre de la imagen correspondiente.
+Actualmente, la carpeta Latex/Classes/Escudos cuenta con los siguientes
+escudos:
+
+\begin{verbatim}
+"fi_azul" Facultad de ingenieria en color azul
+"fi_negro" Facultad de ingenieria en color negro
+"fc_azul" Facultad de ciencias en color azul
+"fc_negro" Facultad de ciencias en color negro
+\end{verbatim}
+
+Se agradecen sus aportaciones de escudos a jebus.velazquez@gmail.com o a
+este Git.
+
+\subsection{Opciones para el posgrado}\label{opciones-para-el-posgrado}
+
+Para empezar, se debe tener el comando
+
+\begin{verbatim}
+\posgradotrue
+\end{verbatim}
+
+La portada tiene dos nuevos elementos: programa y campo, rellenar al
+gusto
+
+\begin{verbatim}
+\programa{Programa de Maestría y Doctorado en XXX}
+\campo{Campo de Conocimiento}
+\end{verbatim}
+
+El siguiente comando activa la opción de poner hasta dos tutores que
+conformen el comité tutor
+
+\begin{verbatim}
+\comitetrue
+\ctutoruno{Nombre 1}
+\ctutoruno{Nombre 2}
+\end{verbatim}
+
+Para los datos del jurado asignado, se tiene
+
+\begin{verbatim}
+\presidente{Nombre}
+\secretario{Nombre}
+\vocal{Nombre}
+\supuno{Suplente 1}
+\supdos{Suplente 2}
+\institucion{el lugar donde se hizo la tesis}
+\end{verbatim}
+
+\subsection{Compilación}\label{compilaciuxf3n}
+
+Por el momento, sólo funciona si compilan con ``PDFLaTeX'', aún no tiene
+funcionalidad completa con otros compiladores.
+
+\subsection{Warnings}\label{warnings}
+
+Marca varias advertencias al compilar, varias de ellas tienen que ver
+con que el paquete Blindtext no tiene funcionalidad para la lengua
+española, este paquete únicamente se usa para rellenar la plantilla con
+texto de ejemplo, por lo que al remover los comandos \blindtext se
+corrige.
+
+Si les da una advertencia de referencias no definidas, compilen el
+archivo ``tesis.tex'' con BibTeX.
+
+Las adevrtencias de fuera de margen son de la portada.
+
+\end{document}

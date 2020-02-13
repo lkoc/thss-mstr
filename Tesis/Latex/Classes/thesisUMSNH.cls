@@ -343,14 +343,16 @@
 	\thispagestyle{empty}	
 	\begin{center}
 
-	{\bfseries {\LARGE PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ}}\\[4mm]
+	{\bfseries {\LARGE PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ}}\\[10mm]
 	{\Large \MakeUppercase {\@programa}}\\ [2mm]
-	{\Large \MakeUppercase {\@campo}}\\[7mm]
+	{\Large \MakeUppercase {\@campo}}\\[12mm]
 	
-\includegraphics[height=3cm]{Latex/Classes/Escudos/logo_pucp.jpeg}\\[10mm]
+\includegraphics[height=3cm]{Latex/Classes/Escudos/logo_pucp.jpeg}\\[12mm]
 { \LARGE TEMA DE TESIS:}\\[0.8cm] 
-{\LARGE \scshape {\@title}} \\[15mm]
 
+\openup 0.5em
+{\LARGE \scshape {\@title}} \\[15mm]
+\openup -0.5em
 %	TESIS\\
 %	QUE PARA OPTAR POR EL GRADO DE:\\
 %	{\Large \scshape {\@degree}}\\[20mm]
@@ -358,7 +360,7 @@
 	{\Large \scshape {\@author}}\\[18mm]
 	
 {\LARGE \emph{Asesor:} }\\[0.4cm] % Nombre del Profesor
-	{\Large \scshape {\@director}}\\[1.0cm]
+	{\Large \scshape {\@director}}\\[1.2cm]
 	\ifcomite
 		COMITÉ TUTOR\\
 		{\Large \scshape {\@ctutoruno}}\\

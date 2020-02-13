@@ -9,15 +9,15 @@
 % modifications made by Arturo Lopez Pineda
 
 %                     Under GNU License v3
-
 % ADAPTADO PARA UMSNH:  @arturolp
 % ADAPTADO PARA PUCP:  @liskoc
-
 \documentclass[oneside,11pt]{Latex/Classes/thesisUMSNH}
 %  PUEDEN INCLUIR EN ESTE ESPACIO LOS PAQUETES EXTRA, O BIEN, EN EL ARCHIVO "PhDthesisPSnPDF.cls" EN "./Latex/Classes/"
 \usepackage{blindtext}  % Para insertar texto dummy, de ejemplo, pues.
-\usepackage[round, sort, numbers]{natbib}  % Personalizar la bibliografía
-%\usepackage{minted} % Enbelleciminiento de código
+%\usepackage[round, sort, numbers]{natbib}  % Personalizar la bibliografía
+\usepackage{natbib}
+%\usepackage{apacite}
+\usepackage{minted} % Enbelleciminiento de código
 \include{Latex/Macros/MacroFile1}           % Archivo con funciones útiles
 \hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=blue, urlcolor=blue, pdftitle=, pdfauthor=, pdfsubject=, pdfkeywords=}
 \usepackage[pdftex]{graphicx}
@@ -57,10 +57,8 @@
 	%\supuno{Dr. 4}
 	%\supdos{Dr. 5}
 	%\institucion{el Instituto de Ingeniería, UNAM}
-
-\keywords{CFD,viento,eólico,parques eólicos,simulación,OpenFoam}            % Palablas clave para los metadatos del PDF
-\subject{PArques Eólicos,Mecánica de fluidos computacional}                     % Tema para metadatos del PDF  
-
+\keywords{CFD,viento,eólico,parques eólicos,simulación,OpenFoam} % Palablas clave para los metadatos del PDF
+\subject{Parques Eólicos,Mecánica de fluidos computacional}      % Tema para metadatos del PDF  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                   PORTADA                         %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
